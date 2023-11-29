@@ -3,7 +3,7 @@ import FeedbackCard from "./FeedbackCards"
 import Billing from "./Billing";
 import CardDeal from "./CardDeal";
 import Business from "./Business";
-import Clients from "./Clients";
+import Clients from "./Client";
 import CTA from "./CTA";
 import Stats from "./Stats";
 import Footer from "./Footer";
